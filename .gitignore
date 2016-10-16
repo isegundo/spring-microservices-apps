@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+bin/
+/.apt_generated/
+.springBeans
